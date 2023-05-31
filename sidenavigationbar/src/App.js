@@ -2,7 +2,7 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import Dashboard from './pages/Dashboard';
-import Sidebar from './components/Sidebar';
+
 import Routess from './Routess';
 function App() {
   return (
